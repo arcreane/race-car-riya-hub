@@ -1,0 +1,7 @@
+C:\Users\riya\Desktop\College works\M. Dominique - C#\Racecar_Riya\Race_against_time\bin\Debug\Race_against_time.exe.config
+C:\Users\riya\Desktop\College works\M. Dominique - C#\Racecar_Riya\Race_against_time\bin\Debug\Race_against_time.exe
+C:\Users\riya\Desktop\College works\M. Dominique - C#\Racecar_Riya\Race_against_time\bin\Debug\Race_against_time.pdb
+C:\Users\riya\Desktop\College works\M. Dominique - C#\Racecar_Riya\Race_against_time\obj\Debug\Race_against_time.csprojAssemblyReference.cache
+C:\Users\riya\Desktop\College works\M. Dominique - C#\Racecar_Riya\Race_against_time\obj\Debug\Race_against_time.csproj.CoreCompileInputs.cache
+C:\Users\riya\Desktop\College works\M. Dominique - C#\Racecar_Riya\Race_against_time\obj\Debug\Race_against_time.exe
+C:\Users\riya\Desktop\College works\M. Dominique - C#\Racecar_Riya\Race_against_time\obj\Debug\Race_against_time.pdb
